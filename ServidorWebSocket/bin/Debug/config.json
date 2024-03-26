@@ -1,0 +1,8 @@
+{
+	"SslCertificateAlwaysValid": true,
+	"ServerIp": "localhost",
+	"ServerPort": 8000,
+	"MaxConnections": 1,
+	"WelcomeMessage": "Bienvenido al servidor WebSocket",
+	"ErrorMessage": true
+}

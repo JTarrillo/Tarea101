@@ -1,0 +1,11 @@
+C:\Users\Jose\Downloads\ClienteWebSocket\obj\Debug\ClienteWebSocket.csproj.AssemblyReference.cache
+C:\Users\Jose\Downloads\ClienteWebSocket\obj\Debug\ClienteWebSocket.csproj.SuggestedBindingRedirects.cache
+C:\Users\Jose\Downloads\ClienteWebSocket\obj\Debug\ClienteWebSocket.csproj.CoreCompileInputs.cache
+C:\Users\Jose\Downloads\ClienteWebSocket\bin\Debug\ClienteWebSocket.exe.config
+C:\Users\Jose\Downloads\ClienteWebSocket\bin\Debug\ClienteWebSocket.exe
+C:\Users\Jose\Downloads\ClienteWebSocket\bin\Debug\ClienteWebSocket.pdb
+C:\Users\Jose\Downloads\ClienteWebSocket\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Jose\Downloads\ClienteWebSocket\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Jose\Downloads\ClienteWebSocket\obj\Debug\ClienteWebSocket.csproj.CopyComplete
+C:\Users\Jose\Downloads\ClienteWebSocket\obj\Debug\ClienteWebSocket.exe
+C:\Users\Jose\Downloads\ClienteWebSocket\obj\Debug\ClienteWebSocket.pdb

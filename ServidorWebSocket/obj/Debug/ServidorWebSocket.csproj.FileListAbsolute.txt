@@ -1,0 +1,11 @@
+C:\Users\Jose\Downloads\ServidorWebSocket\obj\Debug\ServidorWebSocket.csproj.AssemblyReference.cache
+C:\Users\Jose\Downloads\ServidorWebSocket\obj\Debug\ServidorWebSocket.csproj.SuggestedBindingRedirects.cache
+C:\Users\Jose\Downloads\ServidorWebSocket\obj\Debug\ServidorWebSocket.csproj.CoreCompileInputs.cache
+C:\Users\Jose\Downloads\ServidorWebSocket\bin\Debug\ServidorWebSocket.exe.config
+C:\Users\Jose\Downloads\ServidorWebSocket\bin\Debug\ServidorWebSocket.exe
+C:\Users\Jose\Downloads\ServidorWebSocket\bin\Debug\ServidorWebSocket.pdb
+C:\Users\Jose\Downloads\ServidorWebSocket\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Jose\Downloads\ServidorWebSocket\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Jose\Downloads\ServidorWebSocket\obj\Debug\ServidorWebSocket.csproj.CopyComplete
+C:\Users\Jose\Downloads\ServidorWebSocket\obj\Debug\ServidorWebSocket.exe
+C:\Users\Jose\Downloads\ServidorWebSocket\obj\Debug\ServidorWebSocket.pdb
