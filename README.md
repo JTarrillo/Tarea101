@@ -38,6 +38,14 @@ Creé otro proyecto de consola utilizando .NET Framework para el cliente WebSock
 
 Utilicé la biblioteca `WebSocketSharp` para establecer una conexión WebSocket con el servidor. Esto me permitió enviar y recibir mensajes a través de la conexión.
 
+
+## Puntos Adicionales
+
+**1 - Pruebas exhaustivas para garantizar la transferencia correcta de datos en ambas direcciones (ya está incluido en la solución).**
+
+**2 - Optimización del rendimiento de la transferencia de datos (ya está incluido en la solución).**
+
+
 ## Pruebas y Depuración
 
 Realicé pruebas exhaustivas para garantizar que la comunicación funcionara correctamente en ambas direcciones. Utilicé herramientas de depuración para detectar y corregir cualquier problema que encontré durante el desarrollo.
